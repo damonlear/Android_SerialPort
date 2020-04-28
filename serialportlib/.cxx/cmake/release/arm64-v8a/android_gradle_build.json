@@ -1,0 +1,42 @@
+{
+  "stringTable": {
+    "0": "H:/AndroidSerialPort-master/serialportlib/.cxx/cmake/release/arm64-v8a",
+    "1": "--target=aarch64-none-linux-android21 --gcc-toolchain=D:/Android/android_studio_sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/Android/android_studio_sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dserial_port_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -std=c++11 -O2 -DNDEBUG -fPIC"
+  },
+  "buildFiles": [
+    "D:\\Android\\android_studio_sdk\\ndk\\21.1.6352462\\build\\cmake\\platforms.cmake",
+    "D:\\Android\\android_studio_sdk\\ndk\\21.1.6352462\\build\\cmake\\android.toolchain.cmake",
+    "H:\\AndroidSerialPort-master\\serialportlib\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "D:\\Android\\android_studio_sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"H:\\AndroidSerialPort-master\\serialportlib\\.cxx\\cmake\\release\\arm64-v8a\" clean"
+  ],
+  "buildTargetsCommand": "D:\\Android\\android_studio_sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"H:\\AndroidSerialPort-master\\serialportlib\\.cxx\\cmake\\release\\arm64-v8a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "serial-port-Release-arm64-v8a": {
+      "buildCommand": "D:\\Android\\android_studio_sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"H:\\AndroidSerialPort-master\\serialportlib\\.cxx\\cmake\\release\\arm64-v8a\" serial-port",
+      "buildType": "release",
+      "toolchain": "2117422144",
+      "abi": "arm64-v8a",
+      "artifactName": "serial-port",
+      "files": [
+        {
+          "src": "H:\\AndroidSerialPort-master\\serialportlib\\src\\main\\cpp\\serial-port.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "H:\\AndroidSerialPort-master\\serialportlib\\build\\intermediates\\cmake\\release\\obj\\arm64-v8a\\libserial-port.so"
+    }
+  },
+  "toolchains": {
+    "2117422144": {
+      "cppCompilerExecutable": "D:\\Android\\android_studio_sdk\\ndk\\21.1.6352462\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

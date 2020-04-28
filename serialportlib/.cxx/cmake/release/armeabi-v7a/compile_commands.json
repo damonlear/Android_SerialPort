@@ -1,0 +1,7 @@
+[
+{
+  "directory": "H:/AndroidSerialPort-master/serialportlib/.cxx/cmake/release/armeabi-v7a",
+  "command": "D:\\Android\\android_studio_sdk\\ndk\\21.1.6352462\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi16 --gcc-toolchain=D:/Android/android_studio_sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/Android/android_studio_sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dserial_port_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -std=c++11 -Oz -DNDEBUG  -fPIC   -o CMakeFiles\\serial-port.dir\\src\\main\\cpp\\serial-port.cpp.o -c H:\\AndroidSerialPort-master\\serialportlib\\src\\main\\cpp\\serial-port.cpp",
+  "file": "H:/AndroidSerialPort-master/serialportlib/src/main/cpp/serial-port.cpp"
+}
+]

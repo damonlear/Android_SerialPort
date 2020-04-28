@@ -1,0 +1,7 @@
+Executable : D:\Android\android_studio_sdk\cmake\3.10.2.4988404\bin\ninja.exe
+arguments : 
+-C
+H:\AndroidSerialPort-master\serialportlib\.cxx\cmake\debug\x86_64
+serial-port
+jvmArgs : 
+

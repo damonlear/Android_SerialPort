@@ -1,0 +1,19 @@
+{
+  "buildFiles": [
+    "D:\\Android\\android_studio_sdk\\ndk\\21.1.6352462\\build\\cmake\\platforms.cmake",
+    "D:\\Android\\android_studio_sdk\\ndk\\21.1.6352462\\build\\cmake\\android.toolchain.cmake",
+    "H:\\AndroidSerialPort-master\\serialportlib\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "D:\\Android\\android_studio_sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"H:\\AndroidSerialPort-master\\serialportlib\\.cxx\\cmake\\release\\armeabi-v7a\" clean"
+  ],
+  "buildTargetsCommand": "D:\\Android\\android_studio_sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"H:\\AndroidSerialPort-master\\serialportlib\\.cxx\\cmake\\release\\armeabi-v7a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "serial-port-Release-armeabi-v7a": {
+      "artifactName": "serial-port",
+      "buildCommand": "D:\\Android\\android_studio_sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"H:\\AndroidSerialPort-master\\serialportlib\\.cxx\\cmake\\release\\armeabi-v7a\" serial-port",
+      "abi": "armeabi-v7a",
+      "output": "H:\\AndroidSerialPort-master\\serialportlib\\build\\intermediates\\cmake\\release\\obj\\armeabi-v7a\\libserial-port.so"
+    }
+  }
+}

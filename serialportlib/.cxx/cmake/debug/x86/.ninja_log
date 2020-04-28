@@ -1,0 +1,4 @@
+# ninja log v5
+0	9	0	clean	e9a31fe0c49d7a3b
+0	467	609756915	CMakeFiles/serial-port.dir/src/main/cpp/serial-port.cpp.o	f5f55ffceecdde2d
+468	624	609756916	../../../../build/intermediates/cmake/debug/obj/x86/libserial-port.so	9ea214ba8c34b079

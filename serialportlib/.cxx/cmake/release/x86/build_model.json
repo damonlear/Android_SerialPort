@@ -1,0 +1,72 @@
+{
+  "variant": {
+    "module": {
+      "rootBuildGradleFolder": "H:\\AndroidSerialPort-master",
+      "sdkFolder": "D:\\Android\\android_studio_sdk",
+      "isNativeCompilerSettingsCacheEnabled": false,
+      "isBuildOnlyTargetAbiEnabled": true,
+      "splitsAbiFilterSet": [],
+      "intermediatesFolder": "H:\\AndroidSerialPort-master\\serialportlib\\build\\intermediates",
+      "gradleModulePathName": ":serialportlib",
+      "moduleRootFolder": "H:\\AndroidSerialPort-master\\serialportlib",
+      "makeFile": "H:\\AndroidSerialPort-master\\serialportlib\\CMakeLists.txt",
+      "buildSystem": "CMAKE",
+      "compilerSettingsCacheFolder": "H:\\AndroidSerialPort-master\\.cxx",
+      "cxxFolder": "H:\\AndroidSerialPort-master\\serialportlib\\.cxx",
+      "ndkFolder": "D:\\Android\\android_studio_sdk\\ndk\\21.1.6352462",
+      "ndkVersion": "21.1.6352462",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "cmakeToolchainFile": "."
+    },
+    "buildSystemArgumentList": [],
+    "cFlagList": [],
+    "cppFlagsList": [
+      ""
+    ],
+    "variantName": "release",
+    "soFolder": "H:\\AndroidSerialPort-master\\serialportlib\\build\\intermediates\\cmake\\release\\lib",
+    "objFolder": "H:\\AndroidSerialPort-master\\serialportlib\\build\\intermediates\\cmake\\release\\obj",
+    "jsonFolder": "H:\\AndroidSerialPort-master\\serialportlib\\.cxx\\cmake\\release",
+    "gradleBuildOutputFolder": "H:\\AndroidSerialPort-master\\serialportlib\\.cxx\\cxx\\release",
+    "isDebuggableEnabled": false,
+    "validAbiList": [
+      "ARMEABI_V7A",
+      "ARM64_V8A",
+      "X86",
+      "X86_64"
+    ],
+    "buildTargetSet": []
+  },
+  "abi": "X86",
+  "abiPlatformVersion": 16,
+  "cxxBuildFolder": "H:\\AndroidSerialPort-master\\serialportlib\\.cxx\\cmake\\release\\x86",
+  "jsonFile": "H:\\AndroidSerialPort-master\\serialportlib\\.cxx\\cmake\\release\\x86\\android_gradle_build.json",
+  "gradleBuildOutputFolder": "H:\\AndroidSerialPort-master\\serialportlib\\.cxx\\cxx\\release\\x86",
+  "objFolder": "H:\\AndroidSerialPort-master\\serialportlib\\build\\intermediates\\cmake\\release\\obj\\x86",
+  "buildCommandFile": "H:\\AndroidSerialPort-master\\serialportlib\\.cxx\\cmake\\release\\x86\\build_command.txt",
+  "buildOutputFile": "H:\\AndroidSerialPort-master\\serialportlib\\.cxx\\cmake\\release\\x86\\build_output.txt",
+  "modelOutputFile": "H:\\AndroidSerialPort-master\\serialportlib\\.cxx\\cmake\\release\\x86\\build_model.json",
+  "cmake": {
+    "cmakeListsWrapperFile": "H:\\AndroidSerialPort-master\\serialportlib\\.cxx\\cxx\\release\\x86\\CMakeLists.txt",
+    "toolchainWrapperFile": "H:\\AndroidSerialPort-master\\serialportlib\\.cxx\\cxx\\release\\x86\\android_gradle_build.toolchain.cmake",
+    "buildGenerationStateFile": "H:\\AndroidSerialPort-master\\serialportlib\\.cxx\\cxx\\release\\x86\\build_generation_state.json",
+    "cacheKeyFile": "H:\\AndroidSerialPort-master\\serialportlib\\.cxx\\cxx\\release\\x86\\compiler_cache_key.json",
+    "compilerCacheUseFile": "H:\\AndroidSerialPort-master\\serialportlib\\.cxx\\cxx\\release\\x86\\compiler_cache_use.json",
+    "compilerCacheWriteFile": "H:\\AndroidSerialPort-master\\serialportlib\\.cxx\\cxx\\release\\x86\\compiler_cache_write.json",
+    "toolchainSettingsFromCacheFile": "H:\\AndroidSerialPort-master\\serialportlib\\.cxx\\cxx\\release\\x86\\compiler_settings_cache.cmake",
+    "cmakeWrappingBaseFolder": "."
+  },
+  "jsonGenerationLoggingRecordFile": "H:\\AndroidSerialPort-master\\serialportlib\\.cxx\\cmake\\release\\x86\\json_generation_record.json",
+  "compileCommandsJsonFile": "H:\\AndroidSerialPort-master\\serialportlib\\.cxx\\cmake\\release\\x86\\compile_commands.json"
+}
